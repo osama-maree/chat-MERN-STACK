@@ -1,0 +1,15 @@
+.user:hover{
+   background-color: rgb(231,231,231);
+}
+.style1{
+    color: black;
+}
+.leftBorder{
+    border-left: 1px solid gray;
+}
+.user{
+     border-bottom: 2px gray solid;
+     cursor: pointer;
+     
+}
+

@@ -1,0 +1,8 @@
+img {
+  object-fit: cover;
+  height: 40px;
+  width: 40px;
+}
+.ch {
+  background-color: #eee !important;
+}
